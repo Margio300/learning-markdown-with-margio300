@@ -29,3 +29,5 @@ The CAMS Enterprise™ Student Portal is a powerful, easy-to-use tool that offer
 * **Calendaring.** Access calendar to view Miscellaneous Events, Registration Dates.
 
 * **Important links.** Provide unlimited links to sites valuable to your student body.
+
+[Access Student Portal Here](https://www.st-aug.edu/cams-portal/)
